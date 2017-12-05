@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Paybal App</string>
+    <string name="amount">1</string>
+    <string name="take_order">take order</string>
+</resources>

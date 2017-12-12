@@ -31,7 +31,7 @@ import java.math.BigDecimal;
  */
 
 public class BayBalServices {
-    interface confirmLisnter{
+    public interface confirmLisnter{
         void  onConfirm(String result);
         void  onCancel();
         void onInvalid();

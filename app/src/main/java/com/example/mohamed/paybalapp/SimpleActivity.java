@@ -66,7 +66,9 @@ public class SimpleActivity extends AppCompatActivity implements BayBalServices.
     }
 
     @Override
-    public void onInvilad() {
+    public void onInvalid() {
 
     }
+
+
 }
